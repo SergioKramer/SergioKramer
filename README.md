@@ -2,7 +2,7 @@
   <img src="https://github.com/SergioKramer/SergioKramer/blob/main/assets/datas_ez2C6sq.gif?raw=true" alt="Header"/>
 </p>
 
-## I am a beginner Data Scientist
+## I am a beginner Data Scientist. Now I'm working on the design of my profile and filling in the repository.
 
 ## Languages and tools
 ![Python](https://img.shields.io/badge/-Python-C0C0C0?style=for-the-badge&logo=python)
