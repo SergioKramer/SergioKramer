@@ -12,5 +12,8 @@
 ![scikit-learn](https://img.shields.io/badge/-scikitlearn-C0C0C0?style=for-the-badge&logo=scikit-learn)
 ![SQL](https://img.shields.io/badge/-SQL-C0C0C0?style=for-the-badge&logo=mysql&logoColor=000000)
 
-Follow me
+## Follow me
+[![VK](https://img.shields.io/badge/-VK-C0C0C0?style=for-the-badge&logo=vk)](https://vk.com/kramer_sergei)
+[![Habr](https://img.shields.io/badge/-Habr-C0C0C0?style=for-the-badge&logo=habr)](https://career.habr.com/sergiokramer)
+[![telegram](https://img.shields.io/badge/-telegram-C0C0C0?style=for-the-badge&logo=telegram)](https://tlgg.ru/Kramer_Sergei)
 
