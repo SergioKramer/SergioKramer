@@ -1,4 +1,6 @@
-![Header](https://github.com/SergioKramer/SergioKramer/blob/main/assets/datas_ez2C6sq.gif)
+<p align="center">
+  <img src="hhttps://github.com/SergioKramer/SergioKramer/blob/main/assets/datas_ez2C6sq.gif?raw=true" alt="Header"/>
+</p>
 
 ## I am a beginner Data Scientist
 
